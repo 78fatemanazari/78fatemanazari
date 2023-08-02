@@ -55,4 +55,3 @@ hobbies: ["Reading", "Cinema", "Playing Chess", "Art", "Anime"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="php" width="80" height="80"/>
 </p>
 
-![Snake animation](https://github.com/78fatemanazari/78fatemanazari/blob/output/github-contribution-grid-snake.svg)
